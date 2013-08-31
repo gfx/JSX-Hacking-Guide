@@ -67,16 +67,10 @@
 - 文
 - 式
 
-### プログラムのデータ構造
-
-- classdef.jsx
-- statement.jsx
-- expression.jsx
-
-### アナライズ
+### セマンティック解析
 
 - analysis.jsxの概要
-- 意味論の解決
+- 抽象構文器
 - 型の解決
 - 型推論
 - テンプレートの実体化
