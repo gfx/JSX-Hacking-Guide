@@ -7,7 +7,7 @@
 - JavaScriptの発展
 - 21世紀の機械語
 - altJSの誕生
-- 静的型付けaltJS
+- 静的型付けのaltJS
 
 ### JSXの設計思想
 
