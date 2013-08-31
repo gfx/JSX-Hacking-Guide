@@ -136,6 +136,11 @@
 - 非クラス化 (unclassify/statify)
 - 末尾呼び出し最適化 (tail-rec)
 
+### ベンチマーク
+
+- releaseオプション
+- 個別の最適化コマンド
+
 ## Part 4. CPS変換
 
 ### CPS変換とは
