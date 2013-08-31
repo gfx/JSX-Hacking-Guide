@@ -125,7 +125,6 @@
 ### 非BOX化 (unbox)
 
 - 非BOX化とは
-- 最適化戦略
 - 非BOX化条件
 - ローカル変数の非BOX化
 
@@ -136,6 +135,11 @@
 - Array最適化 (array-length)
 - 非クラス化 (unclassify/statify)
 - 末尾呼び出し最適化 (tail-rec)
+
+### ベンチマーク
+
+- releaseオプション
+- 個別の最適化コマンド
 
 ## Part 4. CPS変換
 
