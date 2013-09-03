@@ -125,7 +125,7 @@
 - no-assert/no-log/no-debug
 - 局所共通部分式除去 (lcse)
 - Array最適化 (array-length)
-- 非クラス化 (unclassify/statify)
+- 非クラス化 (unclassify/staticize)
 - 末尾再帰の最適化 (tail-rec)
 
 ### 最適化の効果
